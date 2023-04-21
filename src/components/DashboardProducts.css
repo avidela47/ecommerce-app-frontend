@@ -1,0 +1,9 @@
+.dashboard-product-preview {
+    width: 100px;
+    height: 70px;
+    object-fit: cover;
+}
+
+.btbd{
+    margin-top: 5px;
+}
